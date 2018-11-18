@@ -4,7 +4,7 @@
  
  Download the project and go to the project directory in terminal :
  
- cd path_of_project_folder
+ **cd path_of_project_folder**
  
  and then run command :
  
