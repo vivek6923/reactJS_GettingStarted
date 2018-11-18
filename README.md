@@ -8,13 +8,13 @@
  
  and then run command :
  
- npm install
+ **npm install**
  
  the above command will install the dependencies to run the project.
  
  Then run the command 
  
- npm start
+ **npm start**
  
  
 
